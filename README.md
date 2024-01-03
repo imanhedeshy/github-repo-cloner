@@ -51,8 +51,13 @@ To use the GitHub Repository Cloner, follow these steps:
 
 1. Run the script with the following command:
    ```
+   npm start
+   ```
+   or
+   ```
    node cloneRepos.js
    ```
+
 2. The script will clone all the repositories into the specified directory.
 
 ## Contributing to GitHub Repository Cloner
