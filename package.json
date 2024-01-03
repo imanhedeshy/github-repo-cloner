@@ -1,0 +1,17 @@
+{
+  "name": "github-repos",
+  "version": "1.0.0",
+  "description": "all my repos",
+  "main": "cloneRepos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cloneRepos.js"
+  },
+  "author": "Iman Hedeshy",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "dotenv": "^16.3.1",
+    "shelljs": "^0.8.5"
+  }
+}
