@@ -40,7 +40,7 @@ To install the GitHub Repository Cloner, follow these steps:
 1. Create a `.env` file in the root directory of the project.
 2. Add the following lines to the `.env` file:
    ```
-   USERNAME=your_github_username
+   GH_USERNAME=your_github_username
    GH_TOKEN=your_github_personal_access_token
    ```
    Replace `your_github_username` and `your_github_personal_access_token` with your GitHub username and personal access token, respectively.
