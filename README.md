@@ -85,7 +85,7 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 Thanks to the following people who have contributed to this project:
 
-- [@imanhedeshy](https://github.com/imanhedeshy)
+- "Your name will be here soon"
 
 ## Contact
 
